@@ -1,4 +1,4 @@
-##<a href="https://gorgeous-faloodeh-e369cf.netlify.app/">Yanki</a>
+##<h1><a href="https://gorgeous-faloodeh-e369cf.netlify.app/">Yanki</a></h1>
 
 ## Project setup
 ```
